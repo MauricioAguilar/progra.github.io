@@ -2,7 +2,7 @@
 layout: linda
 ---
 
-![Octocat](/progra.github.io/blob/main/assets/images/spg.png)
+![Octocat](/assets/images/spg.png)
 ## Semana 3
   - Lunes
   - Hypertrophy Lower Body
