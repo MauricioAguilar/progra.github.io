@@ -2,9 +2,8 @@
 layout: default
 ---
 
-##  Linda
+##  Te amo bebe osa
 
-Linda:
 
 Semana 3
 
