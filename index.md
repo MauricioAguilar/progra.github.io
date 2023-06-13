@@ -3,9 +3,10 @@ layout: default
 ---
 
 
-## [Programacion Linda](./linda.html).
+## [Programacion Linda](/linda_menu.html).
 
 ## [Programacion Mauricio](./mauricio.html).
+
 
 
 
