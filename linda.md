@@ -2,7 +2,6 @@
 layout: linda
 ---
 
-![Octocat](/assets/images/spg.png)
 ## Semana 3
   - Lunes
   - Hypertrophy Lower Body
