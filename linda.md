@@ -2,7 +2,7 @@
 layout: linda
 ---
 
-
+![Octocat](./assets/images/spg.png)
 ## Semana 3
   - Lunes
   - Hypertrophy Lower Body
@@ -13,4 +13,4 @@ layout: linda
     - Single Leg Leg Press 4x12 RPE9 (Anotar Peso) **(130lbs)**
 
 
-[back](./)
+[back](./linda_menu)
