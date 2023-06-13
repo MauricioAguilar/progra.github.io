@@ -2,7 +2,7 @@
 layout: linda
 ---
 
-![Octocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmystickermania.com%2Fsticker-packs%2Fspongebob%2Fspongebob-workout&psig=AOvVaw2SZfe65B77rn7bf5EMUgNS&ust=1686785459127000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCa5tKzwf8CFQAAAAAdAAAAABAE)
+![Octocat](/progra.github.io/blob/main/assets/images/spg.png)
 ## Semana 3
   - Lunes
   - Hypertrophy Lower Body
