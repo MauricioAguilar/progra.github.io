@@ -5,7 +5,7 @@ layout: linda_menu
 
 ## [SEMANA 3](./linda.html)
 
-###MARCAS
+### MARCAS
 
     - Remo
         - Ritmo 5k : **2.35**
