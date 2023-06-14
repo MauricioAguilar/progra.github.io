@@ -1,6 +1,6 @@
-
-## Mauricio
-
+---
+layout: mauricio
+---
 ## Semana 3
   - Lunes
     - Back Squat
