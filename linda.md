@@ -28,7 +28,7 @@ layout: linda
 
   - Jueves
     - Mixed Modal Aerobic Capacity
-    - 3 Rounds:
+    - **3 Rounds:**
     - 40 Cal Bike
     - 42 KB Swings **26lbs**
     - 24 Bench Press **75lbs**
