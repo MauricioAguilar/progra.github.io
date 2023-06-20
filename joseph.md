@@ -1,5 +1,5 @@
 ---
-layout: joseph
+layout: CV
 ---
 
 ## Soy una eminencia
