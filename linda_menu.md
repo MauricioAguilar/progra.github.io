@@ -3,7 +3,8 @@ layout: linda_menu
 ---
 # Escoger menu a seleccionar
 
-## [SEMANA 3](./linda.html)
+## [SEMANA 3](./SEMANA3_L.html)
+## [SEMANA 4](./SEMANA4_L.html)
 
 ### MARCAS
 
