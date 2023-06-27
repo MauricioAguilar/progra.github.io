@@ -1,7 +1,7 @@
 ---
 layout: mauricio
 ---
-## Semana 3
+## Semana 1
   - Lunes
     - Back Squat
         - 2 **@60%** (180lbs)
