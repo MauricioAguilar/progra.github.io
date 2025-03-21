@@ -1,42 +1,33 @@
 ---
 layout: mauricio
 ---
-## Semana 1
-  - Lunes
-    - Back Squat
-        - 2 **@60%** (180lbs)
-        - 2 **@65%** (195lbs)
-        - 2 x 6 **@70%** (210lbs)
-    - Aerobic Capacity (Zone 2 Training: 135-155bpm)    
-        - 4 Rounds w/training vest:
-            - 10 Pull Ups
-            - 20 Push Ups (sets of 10 unbroken)
-            - 30 Lunges
-            - 400m Run
-            - (Checa el heart rate cada 2min)
+## Sabado 
+  - Build to a heavy set of this complex
+      - 1 High Hang Power Clean + 2 TnG Power Cleans + 2 Split Jerk
 
-    - Martes
-        - Build to a heavy 10RM Push Press
-        - Then 3x10 @85% of that
-        - Strict Pull Ups
-        - 4x -2reps of failure
+  - WOD
+      - 5 Rounds for time:
+            -10 Power Cleans 185lbs
+            -10 Front Squats 185 lbs
 
-    - Miércoles 
-        - AMRAP 2-2-2-3
-        - 4 Wall Walks
-        - 6 Clean and Jerks 115lbs
-        - Max Cal Assault Bike
-        - Rest 1:30 b/t sets
+  - Aerobic Threshold Row or Ski
+      - 6 Rounds:
+            -1:30 ON
+            -1:30 OFF
+            **For consistency
+                - Every round should be 1 calorie off at the most
 
-    - Jueves
-        - Snatch Technique 
-        - 5 Sets of 3 High Hang Snatches @50-60%
-        - 3x2 Snatches @80-85%
 
-        - Clean from blocks
-            - 2@60%
-            - 2@70%
-            - 4x2@80-85%
+  - Accesorios
+      - 3 x 21s Bicep Curls RPE10
+      - 3 x 10-15 OH Triceps Extension
+      - 3 Rounds:
+          - 15-20 GHD situps
+          - Rest 30 secs
+          - 6-10 Abs Rollouts
+          - Rest 2 minutes
+
+ 
 
 
 [back](./)
