@@ -7,15 +7,14 @@ layout: mauricio
 
   - WOD
       - 5 Rounds for time:
-            - 10 Power Cleans 185lbs
-            - 10 Front Squats 185 lbs
+        - 10 Power Cleans 185lbs
+        - 10 Front Squats 185 lbs
 
   - Aerobic Threshold Row or Ski
       - 6 Rounds:
-            - 1:30 ON
-            - 1:30 OFF
-            **For consistency**
-                - Every round should be 1 calorie off at the most 
+        - 1:30 ON
+        - 1:30 OFF
+          - **For consistency** Every round should be 1 calorie off at the most 
 
 
   - Accesorios
