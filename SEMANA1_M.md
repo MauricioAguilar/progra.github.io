@@ -1,6 +1,6 @@
 ---
- layout: mauricio
- ---
+layout: mauricio
+---
 
 ## Lunes
 
