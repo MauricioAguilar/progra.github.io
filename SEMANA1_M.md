@@ -1,3 +1,7 @@
+---
+ layout: mauricio
+ ---
+
 ## Lunes
 
 - **WARM UP!!!**
@@ -43,3 +47,5 @@
     - Descansa 30 secs
     - 6-10 Abs Rollouts
     - Descansa 2 minutos
+
+[back](./)
